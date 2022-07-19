@@ -11,7 +11,7 @@ Just simply run file `install.bat` or if you want to do it manually go to `src` 
 npm i
 ```
 ### Usage
-Using this is pretty simple as name says, just put your .ROBLOSECURITY cookie into `cookies.txt` file and run `start.txt`, alternatively you can run one of commands below from `src` folder:
+Using this is pretty simple as name says, just put your .ROBLOSECURITY cookie into `cookies.txt` file and run `start.bat`, alternatively you can run one of commands below from `src` folder:
 ```
 node .
 or
