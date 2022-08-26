@@ -20,5 +20,3 @@ npm start
 ### Forks
 If you want to fork it then there's no problems, i'll probably not gonna update it so often because it doesn't have so many functionalities that might break within time.
 And if you think it's a virus then that's why it is on github, you can check code whenever you want!
-### Preview
-![prev1](https://user-images.githubusercontent.com/47297843/179411345-8bb39115-199c-4ae7-8641-4331c160a1a5.png)
