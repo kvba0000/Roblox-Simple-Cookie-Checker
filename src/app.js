@@ -22,7 +22,7 @@ import {readFileSync,writeFileSync} from "fs";
         return `
         \x1b[34m
         Roblox Simple Cookies Checker
-        Created by: dgl\x1b[0m
+        Created by: kob\x1b[0m
         
         \x1b[36mProgress: ${curr}/${max}
         (${working} working...)\x1b[0m`;
