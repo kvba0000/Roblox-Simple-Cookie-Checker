@@ -1,8 +1,3 @@
-import axios from "axios";
-import { readFileSync } from "fs";
-import {createInterface} from "readline";
-
-
 /**
  * 
  * @param {number} ms Time to wait in milliseconds 
@@ -11,7 +6,7 @@ import {createInterface} from "readline";
 export const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 export const checkCookie = async (cookie) => {
-    
+
 }
 
 export const colors = {
