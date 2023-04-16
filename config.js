@@ -1,7 +1,7 @@
 export default {
     "multithreading": {
         "enabled": true,
-        "threads": 5
+        "threads": 50
     },
     "removeDuplicates": true
 }
