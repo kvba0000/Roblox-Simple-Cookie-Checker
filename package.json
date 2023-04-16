@@ -1,5 +1,5 @@
 {
-  "main": "app.js",
+  "main": "checker.js",
   "type": "module",
   "scripts": {
     "start": "node ."
