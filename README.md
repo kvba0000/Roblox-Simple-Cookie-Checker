@@ -2,7 +2,8 @@
 Roblox Cookie Checker is a simple script that checks if your Roblox cookie is valid or not.
 
 # 🛑 I'M NOT ADDING FEATURES FOR THIS CHECKER
-As I don't have much time I can't put more features to this project as well as some other ones. I'll try to keep it working as long as it is physically possible though.
+As I don't have much time I can't put more features to this project as well as some other ones. I'll try to keep it working as long as it is physically possible though.  
+Pull requests and Bug reports are welcome!
 
 ### ❗ Dependencies
 - [Node.js (tested on v18.15.0)](https://nodejs.org/en/download/)
